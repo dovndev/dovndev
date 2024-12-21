@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **dovndev/dovndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi 👋! I'm a tech enthusiast</h2>
 <h2 align="left">
-  📚 I've software development experience using React, NextJs & more
+  📚 I've web development experience using React, NextJs & more
 </h2>
 <h2 align="left">
   🌱 Currently diving into python and AI
