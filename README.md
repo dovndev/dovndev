@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 <!-- <h2 align="left">⚡ Not-so-fun fact: Windows 10 sends data to Microsoft 5000+ times per day, even when idle</h2>
  -->
-<h2 align="left">⚡ Fun fact: FOLLOW ME</h2>
 
 
 ###
