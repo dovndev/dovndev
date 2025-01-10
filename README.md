@@ -48,11 +48,11 @@ Here are some ideas to get you started:
     alt="languages graph"
   />
 </div>
-
+###
 
 ###
 
-<div align="left">
+<div align="center">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     height="30"
