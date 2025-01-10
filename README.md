@@ -48,9 +48,6 @@ Here are some ideas to get you started:
     alt="languages graph"
   />
 </div>
-###
-
-###
 
 <div align="center">
   <img
