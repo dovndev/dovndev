@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi 👋! I'm a tech enthusiast</h2>
 <h2 align="left">
-  📚 I've web development experience using React, NextJs & more
+  📚 Using React, NextJs & more
 </h2>
 <h2 align="left">
-  🌱 Currently diving into python and AI
+  🌱 diving into python and AI
 </h2>
 <!-- <h2 align="left">✉️ How to reach me: Email/LinkedIn</h2> -->
 <h2 align="left">
