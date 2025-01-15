@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="left">Hi 👋! I'm a tech enthusiast</h2>
+<h2 align="left">Hi 👋! I'm a technology aficionado
+</h2>
 <h2 align="left">
   📚 Using React, NextJs & more
 </h2>
