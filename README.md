@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   🌱 diving into python and AI
 </h2>
 <!-- <h2 align="left">✉️ How to reach me: Email/LinkedIn</h2> -->
-<h2 align="left">
+<h2 align="left" size="small">
 
  💬 Ask me about anything...
 </h2>
