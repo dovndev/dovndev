@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi 👋! I'm a technology aficionado
 </h2>
-<h5 align="left">
+<p align="left">
   📚 Using React, NextJs & more
-</h5>
-<h5 align="left">
+</p>
+<p align="left">
   🌱 diving into python and AI
-</h5>
+</p>
 <!-- <h2 align="left">✉️ How to reach me: Email/LinkedIn</h2> -->
 <!-- <h2 align="left" size="small">💬 Ask me about anything...  </h2>-->
 
