@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   📚 Using React, NextJs & more
 </p>
 <p align="left">
-  🌱 diving into python and AI
+  🌱 Diving into AI
 </p>
 <!-- <h2 align="left">✉️ How to reach me: Email/LinkedIn</h2> -->
 <!-- <h2 align="left" size="small">💬 Ask me about anything...  </h2>-->
