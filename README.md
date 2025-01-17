@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dovndev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=dovndev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false"
     height="150"
     alt="stats graph"
   />
