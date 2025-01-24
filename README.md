@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-
+#Hi 👋! I'm a technology aficionado
 <h2 align="left">Hi 👋! I'm a technology aficionado
 </h2>
 <p align="left">
