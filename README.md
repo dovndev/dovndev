@@ -107,7 +107,14 @@ Here are some ideas to get you started:
     alt="linkedin logo"
   />
   </div>
-
+<div align="left">
+  <img
+    src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+    height="35"
+    alt="Instagram logo"
+  />
+  
+</div>
 ###
 
 ###
