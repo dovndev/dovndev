@@ -109,13 +109,13 @@ Here are some ideas to get you started:
   </div>
 <div align="left">
   <img
-    src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+    src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=d13689&logoColor=white&labelColor=&style=for-the-badge"
     height="35"
     alt="Instagram logo"
   />
   
 </div>
-###
+
 
 ###
 
