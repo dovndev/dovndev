@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="left">Hi 👋! I'm a Technology Enthusiast
+<h2 align="center">Hi 👋! I'm a Technology Enthusiast
 </h2>
-<p align="left">
+<p align="center">
   📚 Using React, NextJs & more
 </p>
-<p align="left">
+<p align="center">
   🌱 Diving into AI
 </p>
 <!-- <h2 align="left">✉️ How to reach me: Email/LinkedIn</h2> -->
