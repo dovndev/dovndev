@@ -30,11 +30,8 @@ Here are some ideas to get you started:
 <!-- <h2 align="left">⚡ Not-so-fun fact: Windows 10 sends data to Microsoft 5000+ times per day, even when idle</h2>
  -->
 
-<br>
 
-
-
-
+###
 
 
 <div align="center">
@@ -44,7 +41,10 @@ Here are some ideas to get you started:
     alt="languages graph"
   />
 </div>
-###
+<br>
+
+
+
 
 <div align="center">
   <img
