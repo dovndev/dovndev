@@ -18,20 +18,24 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hi 👋! I'm a Technology Enthusiast
 </h2>
-<p align="center" size="50">
+<h3 align="center" size="50">
   📚 Using React, NextJs & more
-</p>
-<p align="center">
+</h3>
+<h3 align="center">
   🌱 Diving into AI
-</p>
+</h3>
 <!-- <h2 align="left">✉️ How to reach me: Email/LinkedIn</h2> -->
 <!-- <h2 align="left" size="small">💬 Ask me about anything...  </h2>-->
 
 <!-- <h2 align="left">⚡ Not-so-fun fact: Windows 10 sends data to Microsoft 5000+ times per day, even when idle</h2>
  -->
 
+<br>
 
-###
+
+
+
+
 
 <div align="center">
   <img
