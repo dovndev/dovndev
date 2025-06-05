@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/0913575b-e973-4e2a-b34e-5d6386a538ae)
 <!--
 **dovndev/dovndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -92,10 +92,27 @@ Here are some ideas to get you started:
   <img
   src="https://camo.githubusercontent.com/f19579bd4b5f0b9812474d8109d5882710dad0399d94497a26ea79dc01dea234/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667"
   height="40"
-  alt="nextjs logo"
+  alt="firebase logo"
 />
 <img width="12" />
-  
+   <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+  height="40"
+  alt="linux logo"
+/>
+<img width="12" /><img width="12" />
+   <img
+  src="https://camo.githubusercontent.com/e5c1b4b7d59d58f0607fede5dd922211257cd09031f3c2370308ab4e34356299/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667"
+  height="40"
+  alt="figma logo"
+/>
+<img width="12" />   <img
+  src="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667"
+  height="40"
+  alt="tailwind logo"
+/>
+<img width="12" />
+ 
 </div>
 
 
