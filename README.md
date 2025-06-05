@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/0913575b-e973-4e2a-b34e-5d6386a538ae)
 <!--
 **dovndev/dovndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
