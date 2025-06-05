@@ -89,6 +89,13 @@ Here are some ideas to get you started:
   alt="nextjs logo"
 />
 <img width="12" />
+  <img
+  src="https://camo.githubusercontent.com/f19579bd4b5f0b9812474d8109d5882710dad0399d94497a26ea79dc01dea234/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667"
+  height="40"
+  alt="nextjs logo"
+/>
+<img width="12" />
+  
 </div>
 
 
